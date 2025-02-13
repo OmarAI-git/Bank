@@ -1,0 +1,1 @@
+A client management system in C++ for adding, updating, deleting, and searching client data. It includes functionalities like displaying a client list, saving data to a file, and using custom functions to handle operations such as account verification and client details manipulation.
